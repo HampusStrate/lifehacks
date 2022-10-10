@@ -33,8 +33,16 @@ h1, h2 {
 
 .information {
     float: left;
-    padding-right: 66%;
-    margin-left: 30px;
+    margin-left: 20%;
+    padding-top: 75px;
+    position: absolute;
+    padding-right: 50%;
+}
+
+/* hacks */
+
+#hacks {
+    position: absolute;
 }
 
 /* images*/
@@ -43,5 +51,8 @@ section img {
     max-width: 20%;
     max-height: 20%;
     float: right;
-    margin: 30px;
+    margin-right:20%;
+    padding-left: 20%;
+    padding-top: 75px;
+    position: absolute;
 }

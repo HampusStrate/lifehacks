@@ -102,6 +102,7 @@ h1, h2 {
 
  #hacks {
     height: 600px;
+    text-align: center;
  }
 
  #left-hack {
@@ -118,4 +119,18 @@ h1, h2 {
     float: right;
 
     background-color: aquamarine;
+ }
+
+ /* hacks image */
+
+ #hack-image {
+    height: 500px;
+    width: 33%;
+    background: url(../images/pexels-cottonbro-4769486.jpg) no-repeat center;
+ }
+
+ .center-hack {
+    padding-top: 30px;
+    width: 33%;
+    margin: 0 auto;
  }

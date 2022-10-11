@@ -9,7 +9,7 @@
 body {
     font-family: sans-serif;
     font-weight: 300;
-    color: lightskyblue;
+    color: rgb(139,69,19);
 }
 
 /*headings and logos */
@@ -50,11 +50,11 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid lightskyblue;
+    border-bottom: 1px solid rgb(139,69,19);
 }
 
 .active {
-    border-bottom: 1px solid lightskyblue;
+    border-bottom: 1px solid rgb(139,69,19);
 }
 
 /* main image */
@@ -109,16 +109,12 @@ h1, h2 {
     padding-top: 30px;
     width: 33%;
     float: left;
-
-    background-color: purple;
  }
 
  #right-hack {
     padding-top: 30px;
     width: 33%;
     float: right;
-
-    background-color: aquamarine;
  }
 
  /* hacks image */

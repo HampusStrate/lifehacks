@@ -24,6 +24,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 250%;
+    margin-left: 30px;
 }
 
 /* navigations */
@@ -89,10 +90,32 @@ h1, h2 {
     padding-top: 40px;
     padding-left: 10px;
 
-    background-color: brown;
+    background-color: rgb(139,69,19);
 
     bottom: 30px;
     right: 150px;
 
     position: absolute;
 }
+
+/* hacks and description */
+
+ #hacks {
+    height: 600px;
+ }
+
+ #left-hack {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+
+    background-color: purple;
+ }
+
+ #right-hack {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+
+    background-color: aquamarine;
+ }

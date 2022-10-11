@@ -25,3 +25,41 @@ h1, h2 {
     float: left;
     font-size: 250%;
 }
+
+/* navigations */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 1px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid lightskyblue;
+}
+
+.active {
+    border-bottom: 1px solid lightskyblue;
+}
+
+/* main image */
+
+#main-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/pexels-tamás-mészáros-12064.jpg) no-repeat center center;
+}

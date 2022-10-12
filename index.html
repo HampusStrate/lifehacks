@@ -15,9 +15,9 @@
     </header>
     <nav id="menu">
         <ul>
-            <li><a href="#">Contact</a></li>
-            <li><a href="#">Registration</a></li>
-            <li><a href="#">Hacks</a></li>
+            <li><a href="#contacts">Contact</a></li>
+            <li><a href="#registration">Registration</a></li>
+            <li><a href="#hacks">Hacks</a></li>
             <li><a href="index.html" class="active">Home</a></li>
         </ul>
     </nav>
@@ -62,13 +62,17 @@
             <div id="circle-container"></div>
         </div>
     </section>
-    <form action="" method="post">
-        First Name<input type="text">
-        Last Name<input type="text">
-        Emai Address<input type="email">
+    <form action="" method="post" id="registration">
+        <label for="fname">First Name</label>
+        <input type="text" id="fname">
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname">
+        <label for="email">Email Address</label> 
+        <input type="email" id="email">
+        <input type="submit" value="Send">
     </form>
 
-    <footer>
+    <footer id="contacts">
         <div class="contact">email@address.com</div>
         <div class="contact">Tel: 123-456 78 90</div>
        <ul class="social-media">

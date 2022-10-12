@@ -124,7 +124,7 @@ h1, h2 {
 
  #hack-image {
     height: 80%;
-    background: url(../images/pexels-energepiccom-313690.jpg) center;
+    background: url(../images/pexels-cottonbro-4778611.jpg) center center;
     border-radius: 100%;
  }
 
@@ -209,4 +209,5 @@ form input {
     #main-image {
         max-width: 100%;
     }
+    
 }

@@ -140,6 +140,12 @@ footer {
     background-color: rgb(139,69,19);
 }
  
+.contact {
+    color: white;
+    text-align: center;
+    padding-top: 3px;
+}
+
  .social-media {
     text-align: center;
  }
@@ -150,7 +156,12 @@ footer {
 
  .social-media i {
     font-size: 160%;
-    margin: 1%;
+    margin: 0,5%;
     padding: 2%; 
     color: white;
+}
+
+/* form */
+form  input {
+    border: 1px solid #3a3a3a;
 }

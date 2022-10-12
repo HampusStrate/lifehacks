@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 body {
@@ -122,9 +123,9 @@ h1, h2 {
  /* hacks image */
 
  #hack-image {
-    height: 500px;
-    width: 33%;
-    background: url(../images/pexels-cottonbro-4769486.jpg) no-repeat center;
+    height: 80%;
+    background: url(../images/pexels-energepiccom-313690.jpg) center;
+    border-radius: 100%;
  }
 
  .center-hack {
@@ -132,6 +133,8 @@ h1, h2 {
     width: 33%;
     margin: 0 auto;
  }
+
+
 
  /* footer and social media */
 
@@ -143,7 +146,7 @@ footer {
 .contact {
     color: white;
     text-align: center;
-    padding-top: 3px;
+    padding-top: 5px;
 }
 
  .social-media {
@@ -162,6 +165,37 @@ footer {
 }
 
 /* form */
+form {
+    
+}
+
 form  input {
     border: 1px solid #3a3a3a;
+
+}
+
+/*For larger to medium screens size from 1200px wide and down*/
+
+@media screen and (max-width: 1200px) {
+
+    #logo {
+        max-width: 100%;
+        float: left;
+    }
+    
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    #menu {
+        max-width: 100%;
+        float: right;
+    }
+
+    #right-hack, #left-hack {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
 }

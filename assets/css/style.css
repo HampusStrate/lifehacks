@@ -165,9 +165,15 @@ footer {
 }
 
 /* form */
-form  input {
-    border: 1px solid #3a3a3a;
 
+form {
+    padding: 5%;
+}
+
+form input {
+    border: 1px solid #3a3a3a;
+    display: grid;
+    font-size: 100%;
 }
 
 /*For larger to medium screens size from 1200px wide and down*/

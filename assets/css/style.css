@@ -137,6 +137,7 @@ h1, h2 {
 
 footer {
     height: 150px;
+    background-color: rgb(139,69,19);
 }
  
  .social-media {
@@ -150,6 +151,6 @@ footer {
  .social-media i {
     font-size: 160%;
     margin: 1%;
-    padding: 5%; 
-    color: rgb(139,69,19);
+    padding: 2%; 
+    color: white;
 }

@@ -109,8 +109,12 @@ The Link to the deployd website: https://hampusstrate.github.io/lifehacks/
 * Balsamiq was used to creat a base for the project for me to work after i did do some chanegs along the way but was a very good help.
  * The inspiration for the site i got from Code Institute from the exemple texts.
 
+[Back to top](<#content>)
  # Media
  * The photos came from: https://www.pexels.com/sv-se/ that is a very good website hade some problems with the sizes of the image.
 
+[Back to top](<#content>)
  # Acknowledgements
  This website was created as a portfolio project for Code Institue as project 1 for The Full Stacked Develpoer course with Code Institute. I would also like to thank my mentor Precious Ijege who have been there to help me and support me with my work.
+
+ [Back to top](<#content>)

@@ -22,18 +22,21 @@ Here is how i created <a href="https://hampusstrate.github.io/lifehacks/" target
 * [Technologies Used](<#technologies-used>)
 * [Testing](<#testing-page>)
 * [Deployment](<#deployment>)
-    * To deploy the site
+    * [To deploy the site](<#deploy-the-site>)
+* [Credits](<#credits>)
+* [Media](<#media>)
+* [Acknowledgements](<#acknowledgements>)
 
 # Contruction
 ###  Wireframes
 The wireframe for Study Hacks For Everyone was created in program [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjw7p6aBhBiEiwA83fGutWOeJ5356YG_PS_EkyZU_WPpN1oS4yZT1vhnJv-dQKOTzuPum_pBBoCvC8QAvD_BwE). There i created the first prototype of waht the website should look like.
 ![The First Prototype of the website](assets/images/balsamiq%20test%201.png)
 
-[Start](<#content>)
+[Back to top](<#content>)
 ###  Site structure
 The structure that i choose for the website has changed a bit but the main things i still there. I choose i one page website with three sections to go to a home page, a hacks page were the user can look at waht we can offer and the last page is a register form togehter with our contacts.
 
-[Start](<#content>)
+[Back to top](<#content>)
 ##  Design choices
 ###  Typography
 The font i have chosen is "Playfair Dispaly" from Google fonts that makes the headings fell welcome and structured.
@@ -41,31 +44,31 @@ The font i have chosen is "Playfair Dispaly" from Google fonts that makes the he
 The color scheme I have chosen is to use is (rgb(139,69,19)) for the main purpose of having the brown estetic that i match with studys and libirarys.
 To match the brown color i have chosen the normal white and black color to not take away to much from the brown.
 
-[Start](<#content>)
+[Back to top](<#content>)
 # Features
 ## Home
 ## Navigation Menu
-    * I created a one page website but wanted to include a navigation menu for the convinience of the user so that the user can use the website very easy and navigate to the page that they want to go to.
-    * It's easy to use and gets you directly to the part of the page that you were looking for. The logo text of the page takes you back to the main page.
+* I created a one page website but wanted to include a navigation menu for the convinience of the user so that the user can use the website very easy and navigate to the page that they want to go to.
+* It's easy to use and gets you directly to the part of the page that you were looking for. The logo text of the page takes you back to the main page.
 
-[Start](<#content>)
+[Back to top](<#content>)
 ## Main page
-    * The start of the page talks a little bit about us and what we do.
+* The start of the page talks a little bit about us and what we do.
 
-[Start](<#content>)
+[Back to top](<#content>)
 ## Registration form
-    * The registration form is a way for people to register for the weekly mail with information about the newest study hacks that will improve the users studys.
-    * Right now it dosen't register the information of the user.
+* The registration form is a way for people to register for the weekly mail with information about the newest study hacks that will improve the users studys.
+* Right now it dosen't register the information of the user.
 
-[Start](<#content>)
+[Back to top](<#content>)
 ## Contact
-    * Here we have to contact information and also our social media links for people to see what we do on other platforms like.
+* Here we have to contact information and also our social media links for people to see what we do on other platforms like.
 
-[Start](<#content>)
+[Back to top](<#content>)
 ## Testing page
 * Here is the testing page for the site <a href="testing.md">Here</a>
 
-[Start](<#content>)
+[Back to top](<#content>)
 
 # Technologies used
 * HTML5- I used HTML to be able to create the website and giving it content.
@@ -74,7 +77,7 @@ To match the brown color i have chosen the normal white and black color to not t
 * Github- So i could publish my work and have a safe place to store the content.
 * Gitpod- The place were i worked on the project and did all the changes.
 
-[Start](<#content>)
+[Back to top](<#content>)
 
 # Deployment
 ## Deploy the site
@@ -87,14 +90,14 @@ To match the brown color i have chosen the normal white and black color to not t
 
 The Link to the deployd website: https://hampusstrate.github.io/lifehacks/
 
-[Start](<#content>)
+[Back to top](<#content>)
 ### Fork the site
 #### 1. Go to github and find the repositery or click on this link : https://github.com/HampusStrate/lifehacks
 #### 2. On the top right side of the page you will find the fork button that allows you to fork the website.
 
 ![GitHub fork](assets/images/fork2.png)
 
-[Start](<#content>)
+[Back to top](<#content>)
 ### Copy the site
 #### 1. Go to github and find the repositery or click on this link: https://github.com/HampusStrate/lifehacks
 #### 2. To the right you will find the copy button and there you will get the link to the file.

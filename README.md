@@ -47,7 +47,7 @@ Here is how i created <a href="https://hampusstrate.github.io/lifehacks/" target
    #### 3. Under the source section choose the main branch then click save.
    #### 4. When you select the master branch refresh the page to get the link.
 
-![GitHub pages deployd image] (assets/images/steps.png)
+![GitHub pages deployd image](assets/images/steps.png)
 
 The Link to the deployd website: https://hampusstrate.github.io/lifehacks/
 

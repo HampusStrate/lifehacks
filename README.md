@@ -7,31 +7,65 @@ This project i created for the HTML & CSS exam on Code Institute.
 Here is how i created <a href="https://hampusstrate.github.io/lifehacks/" target="-blank" rel="noopener">Study For Everyone</a>
 
 # Content
-* Features
-    * Home
-    * Navigation Menu
-    * Main page
-    * Registration Form
-    * Contact
-* Technologies Used
-* testing
-* Deployment
+* [Construction](<#construction>)
+    * [Wireframes](<#wireframes>)
+    * [Site Structure](<#site-structure>)
+    * [Design Choices](<#design-choices>)
+    * [Typography](<#typography>)
+    * [Color Scheme](<#color-scheme>) 
+* [Features](<#features>)
+    * [Home](<#home>)
+    * [Navigation Menu](<#navigation-menu>)
+    * [Main page](<#main-page>)
+    * [Registration Form](<#registration-form>)
+    * [Contact](<#contact>)
+* [Technologies Used](<#technologies-used>)
+* [Testing](<#testing-page>)
+* [Deployment](<#deployment>)
     * To deploy the site
 
+# Contruction
+###  Wireframes
+The wireframe for Study Hacks For Everyone was created in program [Balsamiq](https://balsamiq.com/wireframes/?gclid=CjwKCAjw7p6aBhBiEiwA83fGutWOeJ5356YG_PS_EkyZU_WPpN1oS4yZT1vhnJv-dQKOTzuPum_pBBoCvC8QAvD_BwE). There i created the first prototype of waht the website should look like.
+![The First Prototype of the website](assets/images/balsamiq%20test%201.png)
+
+[Start](<#content>)
+###  Site structure
+The structure that i choose for the website has changed a bit but the main things i still there. I choose i one page website with three sections to go to a home page, a hacks page were the user can look at waht we can offer and the last page is a register form togehter with our contacts.
+
+[Start](<#content>)
+##  Design choices
+###  Typography
+The font i have chosen is "Playfair Dispaly" from Google fonts that makes the headings fell welcome and structured.
+### Color Scheme
+The color scheme I have chosen is to use is (rgb(139,69,19)) for the main purpose of having the brown estetic that i match with studys and libirarys.
+To match the brown color i have chosen the normal white and black color to not take away to much from the brown.
+
+[Start](<#content>)
 # Features
-* Home
-* Navigation Menu
+## Home
+## Navigation Menu
     * I created a one page website but wanted to include a navigation menu for the convinience of the user so that the user can use the website very easy and navigate to the page that they want to go to.
     * It's easy to use and gets you directly to the part of the page that you were looking for. The logo text of the page takes you back to the main page.
-* Main page
+
+[Start](<#content>)
+## Main page
     * The start of the page talks a little bit about us and what we do.
-* Registration form
+
+[Start](<#content>)
+## Registration form
     * The registration form is a way for people to register for the weekly mail with information about the newest study hacks that will improve the users studys.
     * Right now it dosen't register the information of the user.
-* Contact
+
+[Start](<#content>)
+## Contact
     * Here we have to contact information and also our social media links for people to see what we do on other platforms like.
-# Testing page
+
+[Start](<#content>)
+## Testing page
 * Here is the testing page for the site <a href="testing.md">Here</a>
+
+[Start](<#content>)
 
 # Technologies used
 * HTML5- I used HTML to be able to create the website and giving it content.
@@ -39,6 +73,8 @@ Here is how i created <a href="https://hampusstrate.github.io/lifehacks/" target
 * Balsamic- Balsamic helped me create a base to go after so i knew what to focus on.
 * Github- So i could publish my work and have a safe place to store the content.
 * Gitpod- The place were i worked on the project and did all the changes.
+
+[Start](<#content>)
 
 # Deployment
 ## Deploy the site
@@ -51,13 +87,19 @@ Here is how i created <a href="https://hampusstrate.github.io/lifehacks/" target
 
 The Link to the deployd website: https://hampusstrate.github.io/lifehacks/
 
+[Start](<#content>)
 ### Fork the site
 #### 1. Go to github and find the repositery or click on this link : https://github.com/HampusStrate/lifehacks
 #### 2. On the top right side of the page you will find the fork button that allows you to fork the website.
 
+![GitHub fork](assets/images/fork2.png)
+
+[Start](<#content>)
 ### Copy the site
 #### 1. Go to github and find the repositery or click on this link: https://github.com/HampusStrate/lifehacks
 #### 2. To the right you will find the copy button and there you will get the link to the file.
+
+![GitHub Copy](assets/images/Fork.png)
 
 # Credits
 * The font is taken from: https://fonts.google.com/ and named Playfair Display

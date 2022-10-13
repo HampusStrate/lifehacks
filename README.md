@@ -7,14 +7,55 @@ Here is how i created <a href="https://hampusstrate.github.io/lifehacks/" target
 
 # Content
 * Features
-* Home
-* Navigation Menu
-* Registration Form
-* Contact
+    * Home
+    * Navigation Menu
+    * Main page
+    * Registration Form
+    * Contact
+* Technologies Used
+* testing
+*Deployment
+    *To deploy the site
 
 # Features
 * Home
 * Navigation Menu
     * I created a one page website but wanted to include a navigation menu for the convinience of the user so that the user can use the website very easy and navigate to the page that they want to go to.
+    * It's easy to use and gets you directly to the part of the page that you were looking for. The logo text of the page takes you back to the main page.
+* Main page
+    * The start of the page talks a little bit about us and what we do.
+* Registration form
+    * The registration form is a way for people to register for the weekly mail with information about the newest study hacks that will improve the users studys.
+    * Right now it dosen't register the information of the user.
+* Contact
+    * Here we have to contact information and also our social media links for people to see what we do on other platforms like.
+
+# Technologies used
+    * HTML5- I used HTML to be able to create the website and giving it content.
+    * CSS- I used CSS to style and make the website look apeling to users.
+    * Balsamic- Balsamic helped me create a base to go after so i knew what to focus on.
+    * Github- So i could publish my work and have a safe place to store the content.
+    * Gitpod- The place were i worked on the project and did all the changes.
+
+# Deployment
+### Deploy the site
+   ### 1. In the github repositery click on seetings.
+   ### 2. Navigate to the pages section on the left side.
+   ### 3. Under the source section choose the main branch then click save.
+   ### 4. When you select the master branch refresh the page to get the link.
+
+![GitHub pages deployd image] (assets/images/steps.png)
+
+The Link to the deployd website: https://hampusstrate.github.io/lifehacks/
+
+### Fork the site
+### 1. Go to github and find the repositery or click on this link : https://github.com/HampusStrate/lifehacks
+### 2. On the top right side of the page you will find the fork button that allows you to fork the website.
+
+### Copy the site
+### 1. Go to github and find the repositery or click on this link: https://github.com/HampusStrate/lifehacks
+### 2. To the right you will find the copy button and there you will get the link to the file.
+
+
 
 

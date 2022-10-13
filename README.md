@@ -30,6 +30,8 @@ Here is how i created <a href="https://hampusstrate.github.io/lifehacks/" target
     * Right now it dosen't register the information of the user.
 * Contact
     * Here we have to contact information and also our social media links for people to see what we do on other platforms like.
+# Testing page
+* Here is the testing page for the site <a href="testing.md">Here</a>
 
 # Technologies used
 * HTML5- I used HTML to be able to create the website and giving it content.

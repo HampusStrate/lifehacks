@@ -41,7 +41,7 @@ Here is how i created <a href="https://hampusstrate.github.io/lifehacks/" target
 * Gitpod- The place were i worked on the project and did all the changes.
 
 # Deployment
-### Deploy the site
+## Deploy the site
    #### 1. In the github repositery click on seetings.
    #### 2. Navigate to the pages section on the left side.
    #### 3. Under the source section choose the main branch then click save.

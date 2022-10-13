@@ -157,14 +157,14 @@ footer {
 /* form */
 
 form {
-    padding: 5%;
+    padding: 5% 40% 5%;
 }
 
 form input {
     border: 1px solid black;
     display: grid;
     font-size: 100%;
-    width: 300px;
+    width: 200px;
     height: 20px;
 }
 

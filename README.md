@@ -2,6 +2,7 @@
 
 Study For Everyone is a webpage about diffrent hacks that students can use in order to maximize their studies and sessions.
 It's a service that is very easy optanible and the hacks that we recommend is very easy for everyone to do from al ages and in all diffrent places.
+This project i created for the HTML & CSS exam on Code Institute.
 
 Here is how i created <a href="https://hampusstrate.github.io/lifehacks/" target="-blank" rel="noopener">Study For Everyone</a>
 
@@ -14,8 +15,8 @@ Here is how i created <a href="https://hampusstrate.github.io/lifehacks/" target
     * Contact
 * Technologies Used
 * testing
-*Deployment
-    *To deploy the site
+* Deployment
+    * To deploy the site
 
 # Features
 * Home
@@ -31,11 +32,11 @@ Here is how i created <a href="https://hampusstrate.github.io/lifehacks/" target
     * Here we have to contact information and also our social media links for people to see what we do on other platforms like.
 
 # Technologies used
-    * HTML5- I used HTML to be able to create the website and giving it content.
-    * CSS- I used CSS to style and make the website look apeling to users.
-    * Balsamic- Balsamic helped me create a base to go after so i knew what to focus on.
-    * Github- So i could publish my work and have a safe place to store the content.
-    * Gitpod- The place were i worked on the project and did all the changes.
+* HTML5- I used HTML to be able to create the website and giving it content.
+* CSS- I used CSS to style and make the website look apeling to users.  
+* Balsamic- Balsamic helped me create a base to go after so i knew what to focus on.
+* Github- So i could publish my work and have a safe place to store the content.
+* Gitpod- The place were i worked on the project and did all the changes.
 
 # Deployment
 ### Deploy the site
@@ -56,6 +57,13 @@ The Link to the deployd website: https://hampusstrate.github.io/lifehacks/
 ### 1. Go to github and find the repositery or click on this link: https://github.com/HampusStrate/lifehacks
 ### 2. To the right you will find the copy button and there you will get the link to the file.
 
+# Credits
+* The font is taken from: https://fonts.google.com/ and named Playfair Display
+* Balsamiq was used to creat a base for the project for me to work after i did do some chanegs along the way but was a very good help.
+ * The inspiration for the site i got from Code Institute from the exemple texts.
 
+ # Media
+ * The photos came from: https://www.pexels.com/sv-se/ that is a very good website hade some problems with the sizes of the image.
 
-
+ # Acknowledgements
+ This website was created as a portfolio project for Code Institue as project 1 for The Full Stacked Develpoer course with Code Institute. I would also like to thank my mentor Precious Ijege who have been there to help me and support me with my work.

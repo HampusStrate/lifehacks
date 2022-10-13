@@ -42,10 +42,10 @@ Here is how i created <a href="https://hampusstrate.github.io/lifehacks/" target
 
 # Deployment
 ### Deploy the site
-   ### 1. In the github repositery click on seetings.
-   ### 2. Navigate to the pages section on the left side.
-   ### 3. Under the source section choose the main branch then click save.
-   ### 4. When you select the master branch refresh the page to get the link.
+   #### 1. In the github repositery click on seetings.
+   #### 2. Navigate to the pages section on the left side.
+   #### 3. Under the source section choose the main branch then click save.
+   #### 4. When you select the master branch refresh the page to get the link.
 
 ![GitHub pages deployd image] (assets/images/steps.png)
 

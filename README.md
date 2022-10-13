@@ -43,6 +43,7 @@ The font i have chosen is "Playfair Dispaly" from Google fonts that makes the he
 ### Color Scheme
 The color scheme I have chosen is to use is (rgb(139,69,19)) for the main purpose of having the brown estetic that i match with studys and libirarys.
 To match the brown color i have chosen the normal white and black color to not take away to much from the brown.
+![The color scheme iamge](assets/images/color.png)
 
 [Back to top](<#content>)
 # Features

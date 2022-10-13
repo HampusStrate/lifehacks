@@ -84,7 +84,7 @@ h1, h2 {
     letter-spacing: 1px;
     text-align: center;
 
-    width: 500px;
+    width: 400px;
     height: 400px;
 
     padding-top: 40px;
@@ -173,12 +173,17 @@ form input {
     border-bottom: 1px solid rgb(139,69,19);
     font-family: playfair Display, sans-serif;
     padding-top: 5%;
+    padding-bottom: 2%;
 }
 
 .infoh {
     text-align: center;
     font-family: Playfair Display, sans-serif;
     padding: 0 20% 0;
+}
+
+#comment {
+    border: 1px solid black;
 }
 
 /*For larger to medium screens size from 1200px wide and down*/
@@ -200,6 +205,7 @@ form input {
     #logo {
         padding: 30px 0;
         margin: 0;
+        text-align: center;
     }
 
     .registerh {
@@ -222,7 +228,7 @@ form input {
 @media screen and (max-width: 950px) {
     #menu {
         clear: left;
-        float: left;
+        text-align: center;
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
@@ -231,6 +237,8 @@ form input {
     #main-information {
         left: 0;
         width: 90%;
+        max-height: 1200px;
+        text-align: center;
     }
 
     #hacks {

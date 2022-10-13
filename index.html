@@ -15,7 +15,6 @@
     </header>
     <nav id="menu">
         <ul>
-            <li><a href="#contacts">Contact</a></li>
             <li><a href="#registration">Registration</a></li>
             <li><a href="#hacks">Hacks</a></li>
             <li><a href="index.html" class="active">Home</a></li>
@@ -63,7 +62,7 @@
     <section id="rform">
         <h2 class="registerh">Register today!</h2>
         <h3 class="infoh">Let us help you focus on whats important weekly by seending new hacks every Sunday! Just register with you name an email and we will send ypu an email with a new hack and an explanation on why it will help every Sunday before the new week!</h3>
-    <form action="" method="post" id="registration">
+    <form action="index.html" method="post" id="registration">
         <label for="fname">First Name</label>
         <input type="text" id="fname" required>
         <label for="lname">Last Name</label>
@@ -71,13 +70,17 @@
         <label for="email">Email Address</label> 
         <input type="email" id="email" required>
         <br>
-        <input type="submit" value="Send" id="submit">
+        <textarea rows="5" cols="38" id="comment">  
+            Insert comment here
+        </textarea>  
+        <br>
+        <input type="submit" value="Send" id="submit" formaction="index-html">
     </form>
     </section>
     <footer id="contacts">
         <div class="contact">email@address.com</div>
         <div class="contact">Tel: 123-456 78 90</div>
-       <ul class="social-media">
+        <ul class="social-media">
         <li>
             <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="Visit our Instrgram page (opens a new tab)"><i class="fa-brands fa-square-instagram"></i></a>
         </li>

@@ -2,7 +2,8 @@
 
 ## First test i did was a HTML validator test: https://validator.w3.org/nu/
 * The results were good hade to do some changes but nothing big.
-* I have a one thing still not validatet and that is the form action becuase i don't have anywere to send the information right now.
+
+
 
 ## The second test was a CSS validator test: https://jigsaw.w3.org/css-validator/
 * This also gave med good results had one wrong and that was that i hade used a "," on one of the margin so i changed that as fast as possible.

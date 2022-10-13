@@ -52,12 +52,12 @@ Here is how i created <a href="https://hampusstrate.github.io/lifehacks/" target
 The Link to the deployd website: https://hampusstrate.github.io/lifehacks/
 
 ### Fork the site
-### 1. Go to github and find the repositery or click on this link : https://github.com/HampusStrate/lifehacks
-### 2. On the top right side of the page you will find the fork button that allows you to fork the website.
+#### 1. Go to github and find the repositery or click on this link : https://github.com/HampusStrate/lifehacks
+#### 2. On the top right side of the page you will find the fork button that allows you to fork the website.
 
 ### Copy the site
-### 1. Go to github and find the repositery or click on this link: https://github.com/HampusStrate/lifehacks
-### 2. To the right you will find the copy button and there you will get the link to the file.
+#### 1. Go to github and find the repositery or click on this link: https://github.com/HampusStrate/lifehacks
+#### 2. To the right you will find the copy button and there you will get the link to the file.
 
 # Credits
 * The font is taken from: https://fonts.google.com/ and named Playfair Display

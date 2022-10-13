@@ -106,35 +106,25 @@ h1, h2 {
  #hacks {
     height: 600px;
     text-align: center;
+    padding: 2%;
  }
 
  #left-hack {
     padding-top: 30px;
-    width: 33%;
+    width: 45%;
     float: left;
  }
 
  #right-hack {
     padding-top: 30px;
-    width: 33%;
+    width: 45%;
     float: right;
  }
 
- /* hacks image */
-
- #hack-image {
-    height: 80%;
-    background: url(../images/pexels-cottonbro-4778611.jpg) center center;
-    border-radius: 100%;
+ #hacks h3 {
+    padding: 2%;
+    font-family: Playfair Display, sans-serif;
  }
-
- .center-hack {
-    padding-top: 30px;
-    width: 33%;
-    margin: 0 auto;
- }
-
-
 
  /* footer and social media */
 
@@ -176,38 +166,36 @@ form input {
     font-size: 100%;
 }
 
+.registerh {
+    text-align: center;
+    border-bottom: 1px solid rgb(139,69,19);
+    font-family: playfair Display, sans-serif;
+    padding-top: 5%;
+}
+
+.infoh {
+    text-align: center;
+    font-family: Playfair Display, sans-serif;
+}
+
 /*For larger to medium screens size from 1200px wide and down*/
 
 @media screen and (max-width: 1200px) {
 
+    #hacks {
+    width: 100%;
+    height: 1200px;
+    margin: 0 auto;
+    }
+
+    #left-hack, #right-hack {
+       width: 100%;
+       float: left;
+       margin: 0;
+    }
+    
     #logo {
-        max-width: 100%;
-        float: left;
+        padding: 30px 0;
+        margin: 0;
     }
-    
-    img {
-        max-width: 100%;
-        height: auto;
-    }
-
-    #menu {
-        max-width: 100%;
-        float: right;
-    }
-
-    #right-hack, #left-hack {
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    #main-information {
-        max-width: 100%;
-        float: right;
-    }
-
-    #main-image {
-        max-width: 100%;
-    }
-    
 }

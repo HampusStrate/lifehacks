@@ -2,7 +2,7 @@
 
 ## First test i did was a HTML validator test: https://validator.w3.org/nu/
 * The results were good hade to do some changes but nothing big.
-
+![Test results from css validator](assets/images/validate%20html.png)
 
 
 ## The second test was a CSS validator test: https://jigsaw.w3.org/css-validator/

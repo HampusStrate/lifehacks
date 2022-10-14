@@ -172,8 +172,8 @@ form input {
     text-align: center;
     border-bottom: 1px solid rgb(139,69,19);
     font-family: playfair Display, sans-serif;
-    padding-top: 5%;
-    padding-bottom: 2%;
+    padding-top: 3%;
+    padding-bottom: 1%;
 }
 
 .infoh {
@@ -258,5 +258,13 @@ form input {
 
     #registraion {
         width: 90%;
+        height: 100%;
+        margin: 0 auto;
+    }
+
+    #registraion > p {
+        width: 90%;
+        max-height: 400px;
+        margin: 0 auto;
     }
 }

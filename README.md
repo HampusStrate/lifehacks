@@ -23,6 +23,8 @@ Here is how i created <a href="https://hampusstrate.github.io/lifehacks/" target
 * [Testing](<#testing-page>)
 * [Deployment](<#deployment>)
     * [To deploy the site](<#deploy-the-site>)
+    * [Fork the repositery](#fork-the-site)
+    * [Cloning the repositeri](#cloning-the-repotstiries)
 * [Credits](<#credits>)
 * [Media](<#media>)
 * [Acknowledgements](<#acknowledgements>)
@@ -99,7 +101,7 @@ The Link to the deployd website: https://hampusstrate.github.io/lifehacks/
 ![GitHub fork](assets/images/fork2.png)
 
 [Back to top](<#content>)
-### Copy the site
+### Cloning The Repotstiries
 #### 1. Go to github and find the repositery or click on this link: https://github.com/HampusStrate/lifehacks
 #### 2. To the right you will find the copy button and there you will get the link to the file.
 
